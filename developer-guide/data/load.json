@@ -1,0 +1,11 @@
+{
+  "guide": [
+    "load.version Object .name .copy .number",
+    "load.setup(clc, fast, icons) true true true default -- Note: you can't run fast without icons",
+    "load.view_themes() Themes",
+    "<b class='rc red'>load.resettingNoti()</b>",
+    "load.remo() remove or hidden element",
+    "<b class='col'>load.CLC Object .. version toast(msg, type) write(element, speed) .. view_version()</b>",
+    "load.side_bar_id use to change side bar content."
+  ]
+}

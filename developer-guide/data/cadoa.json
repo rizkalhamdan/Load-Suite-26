@@ -1,0 +1,86 @@
+{
+  "guide": [
+    "Ubuntu font",
+    "h1.fix",
+    "<span class='rc version'></span>",
+    "<span class='rc cadoa_team'></span>",
+    "root: <br> --background --second-col --opacit-col --text-color --chat-color --main-color --main-opaci --cadoa-main --space-side --transtion --direction --cadoa-*colors* --csv-size --csv-color-shadow --cadoa-url --cadoa-font",
+    
+    "<b class='rc blue'>section.rc.full (ootional).align -- You can delete it => load.remo(full element)</b>",
+    "section.head (op) .center .. h2 .. span | h3",
+    "<p class='col color'>Coloring</p>",
+    "<input class='rc inp' placeholder='Try insert'>",
+    "<input class='rc inp fo' placeholder='Try insert'>",
+    
+    "<button class='rc btn lineout'>lineout</button>",
+    "<button class='rc btn lineout ma'>lineout ma</button>",
+    "<button class='rc btn'>no art</button>",
+    "<button class='rc btn text'>text</button>",
+    "<button class='rc btn main'>main</button>",
+    "<button class='rc btn no'>No</button>",
+    "<button class='rc btn'>.ic for icons</button>",
+    
+    "<h1 class='rc title form1'>Load Suite</h1>",
+    "<h1 class='rc title form2'>Developer Guide</h1>",
+    
+    "<div class='rc box'>The content in a box!</div>",
+    "<div class='rc box'>The content in a box! <span class='new'>New</span></div>",
+    
+    "<div class='rc cards'> <a class='rc card'> <img src='../res/load-suite.jpeg'>  <div class='details'><b>Load Suite</b> <span>S:1.1</span></div> </a></div>",
+    
+    "<div class='rc icons'> <a class='rc icon'><img src='../res/load-suite.jpeg'> <span>Load</span> </a> </div>",
+    
+    "footer.rc .header .. a | b span | p",
+    
+    "<span class='rc cir'>0</span> <span class='rc cir'>1</span> <span class='rc cir'>94</span>",
+    
+    "<div class='rc ic-list1'><span></span> <span></span> <span></span></div>",
+    
+    "<div class='rc settings'> <a class='rc element'><span class='material-symbols-rounded'>videocam</span> Videos</a> <a class='rc element'><span class='material-symbols-rounded'>labs</span> Labs</a></div>",
+    
+    "<h1 class='rc linecolor'></h1>",
+    "<h1 class='rc linecolor text'></h1>",
+    
+    "<ul class='rc'><li><img src='../res/load-suite.jpeg'>ul rc</li> <li><img src='../res/load-suite.jpeg'>li</li> <li><img src='../res/load-suite.jpeg'>a</li> <li><img src='../res/load-suite.jpeg'>img</li></ul>",
+    
+    ".navs .. h1.rc.toast ++ .const | .error | .warn | true | warning",
+    
+    "<div class='rc cadoa_logo'><img src='../res/load-suite.jpeg'></div>",
+    
+    "<b class='rc msg'>Load</b> <b class='rc msg right'>span <span>01:34</span></b> <b class='rc msg center'>center</b>",
+    
+    "<b class='rc red big'>.spaceside .martb .spacesidein .chon big margin bottom top </b>",
+    
+    "<h1 class='rc title form3'>And center</h1>",
+    
+    "<div class='rc loading'> <span></span><span></span><span></span></div>",
+    
+    "<div class='rc box bg_al'>.tooutside animation .tototo animation</div>",
+    
+    "<section class='rc accident' data-text='About'>Load js <div class='rc box bo'>Bo</div></section>",
+    
+    "<div class='rc go'>Go</div>",
+    "<div class='rc bo'>Bo</div>",
+    "<div class='rc bo ma'>Bo main</div>",
+    "<div class='rc bo ma un'>Bo un</div>",
+    
+    "<div class='rc CSV'><span class='rc csv green'>Load</span> <span class='rc csv red'>Suite</span></div>",
+    "<div class='rc CSV shadow font'><span class='rc csv sh-green'>.shadow</span> <span class='rc csv sh-red'>.font</span></div>",
+    "<div class='rc CSV shadow font small'><span class='rc csv sh-green'>same</span> <span class='rc csv sh-red'>.small</span></div>",
+    
+    "<div class='rc box edit'>.rc.edit</div>",
+    "<div class='rc go'>.align .center</div>",
+    
+    ".fast *Anything .backcolors",
+    "<img class='rc ic' src='../res/load-suite.jpeg'",
+    
+    "<div class='rc som'>Som, add .act class when load thing</div>",
+    ".width .private",
+    
+    "<div class='rc osloading'><div class='one'>••</div><div class='two'>LS</div></div>",
+    "<div class='rc osloading small'><div class='one'></div><div class='two'></div></div>",
+    ".md_center for icons",
+    ".flex class js-c and ai-c",
+    ".google class Move element to bottom with a great gravity"
+  ]
+}

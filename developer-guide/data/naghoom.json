@@ -1,0 +1,20 @@
+{
+  "guide": [
+    "You should declaration a constant variable value's is 'new Naghoom(YourPageName)'",
+    
+    "use .na() method to create new components",
+    
+    "<b class='col'>.na( {...} ) like name: Element Tag Name, classes: class..., click: fullback function, all css properties, nag: other father element, content: innerHTML, id: private</b>",
+    
+    ".na() return object contains private id, local nag, atr function, n same object back",
+    ".na() update {preload: 500}",
+    ".na() update {hint: 'placholder for inout', src: 'for images}",
+    ".na() return object (include new .na()) you don't need nag after now",
+    
+    ".sty({...}, id)... any properties",
+    ".atr({...}, id)... any attributes",
+    ".nag() return the first father nag",
+    ".get_icon_rounded(''icon name)",
+    ".head(p object) p.theme p.icon p.keywords"
+  ]
+}

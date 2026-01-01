@@ -1,0 +1,243 @@
+Array
+(
+    [DOCUMENT_ROOT] => /home/rizk/PC data/Reset for Chromebook flex/vscode basic/Web/Load Suite
+    [REMOTE_ADDR] => 172.168.1.2
+    [REMOTE_PORT] => 47098
+    [SERVER_SOFTWARE] => PHP/8.3.6 (Development Server)
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_NAME] => 172.168.1.6
+    [SERVER_PORT] => 9494
+    [REQUEST_URI] => /
+    [REQUEST_METHOD] => GET
+    [SCRIPT_NAME] => /index.php
+    [SCRIPT_FILENAME] => /home/rizk/PC data/Reset for Chromebook flex/vscode basic/Web/Load Suite/index.php
+    [PHP_SELF] => /index.php
+    [HTTP_HOST] => 172.168.1.6:9494
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Linux; Android 15; Infinix X6880 Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.116 Mobile Safari/537.36
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [HTTP_DNT] => 1
+    [HTTP_X_REQUESTED_WITH] => mark.via.gp
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.9,ar-LY;q=0.8,ar;q=0.7
+    [REQUEST_TIME_FLOAT] => 1766655694.6018
+    [REQUEST_TIME] => 1766655694
+)
+Array
+(
+    [DOCUMENT_ROOT] => /home/rizk/PC data/Reset for Chromebook flex/vscode basic/Web/Load Suite
+    [REMOTE_ADDR] => 172.168.1.2
+    [REMOTE_PORT] => 38044
+    [SERVER_SOFTWARE] => PHP/8.3.6 (Development Server)
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_NAME] => 172.168.1.6
+    [SERVER_PORT] => 9494
+    [REQUEST_URI] => /
+    [REQUEST_METHOD] => GET
+    [SCRIPT_NAME] => /index.php
+    [SCRIPT_FILENAME] => /home/rizk/PC data/Reset for Chromebook flex/vscode basic/Web/Load Suite/index.php
+    [PHP_SELF] => /index.php
+    [HTTP_HOST] => 172.168.1.6:9494
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Linux; Android 15; Infinix X6880 Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.116 Mobile Safari/537.36
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [HTTP_DNT] => 1
+    [HTTP_X_REQUESTED_WITH] => mark.via.gp
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.9,ar-LY;q=0.8,ar;q=0.7
+    [REQUEST_TIME_FLOAT] => 1766655698.6454
+    [REQUEST_TIME] => 1766655698
+)
+Array
+(
+    [DOCUMENT_ROOT] => /home/rizk/PC data/Reset for Chromebook flex/vscode basic/Web/Load Suite
+    [REMOTE_ADDR] => 172.168.1.2
+    [REMOTE_PORT] => 38070
+    [SERVER_SOFTWARE] => PHP/8.3.6 (Development Server)
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_NAME] => 172.168.1.6
+    [SERVER_PORT] => 9494
+    [REQUEST_URI] => /
+    [REQUEST_METHOD] => GET
+    [SCRIPT_NAME] => /index.php
+    [SCRIPT_FILENAME] => /home/rizk/PC data/Reset for Chromebook flex/vscode basic/Web/Load Suite/index.php
+    [PHP_SELF] => /index.php
+    [HTTP_HOST] => 172.168.1.6:9494
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Linux; Android 15; Infinix X6880 Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.116 Mobile Safari/537.36
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [HTTP_DNT] => 1
+    [HTTP_X_REQUESTED_WITH] => mark.via.gp
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.9,ar-LY;q=0.8,ar;q=0.7
+    [REQUEST_TIME_FLOAT] => 1766655703.2252
+    [REQUEST_TIME] => 1766655703
+)
+Array
+(
+    [DOCUMENT_ROOT] => /home/rizk/PC data/Reset for Chromebook flex/vscode basic/Web/Load Suite
+    [REMOTE_ADDR] => 172.168.1.2
+    [REMOTE_PORT] => 38074
+    [SERVER_SOFTWARE] => PHP/8.3.6 (Development Server)
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_NAME] => 172.168.1.6
+    [SERVER_PORT] => 9494
+    [REQUEST_URI] => /
+    [REQUEST_METHOD] => GET
+    [SCRIPT_NAME] => /index.php
+    [SCRIPT_FILENAME] => /home/rizk/PC data/Reset for Chromebook flex/vscode basic/Web/Load Suite/index.php
+    [PHP_SELF] => /index.php
+    [HTTP_HOST] => 172.168.1.6:9494
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Linux; Android 15; Infinix X6880 Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.116 Mobile Safari/537.36
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [HTTP_DNT] => 1
+    [HTTP_X_REQUESTED_WITH] => mark.via.gp
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.9,ar-LY;q=0.8,ar;q=0.7
+    [REQUEST_TIME_FLOAT] => 1766655704.0998
+    [REQUEST_TIME] => 1766655704
+)
+Array
+(
+    [DOCUMENT_ROOT] => /home/rizk/PC data/Reset for Chromebook flex/vscode basic/Web/Load Suite
+    [REMOTE_ADDR] => 172.168.1.2
+    [REMOTE_PORT] => 38080
+    [SERVER_SOFTWARE] => PHP/8.3.6 (Development Server)
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_NAME] => 172.168.1.6
+    [SERVER_PORT] => 9494
+    [REQUEST_URI] => /
+    [REQUEST_METHOD] => GET
+    [SCRIPT_NAME] => /index.php
+    [SCRIPT_FILENAME] => /home/rizk/PC data/Reset for Chromebook flex/vscode basic/Web/Load Suite/index.php
+    [PHP_SELF] => /index.php
+    [HTTP_HOST] => 172.168.1.6:9494
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Linux; Android 15; Infinix X6880 Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.116 Mobile Safari/537.36
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [HTTP_DNT] => 1
+    [HTTP_X_REQUESTED_WITH] => mark.via.gp
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.9,ar-LY;q=0.8,ar;q=0.7
+    [REQUEST_TIME_FLOAT] => 1766655704.5817
+    [REQUEST_TIME] => 1766655704
+)
+Array
+(
+    [DOCUMENT_ROOT] => /home/rizk/PC data/Reset for Chromebook flex/vscode basic/Web/Load Suite
+    [REMOTE_ADDR] => 172.168.1.2
+    [REMOTE_PORT] => 38082
+    [SERVER_SOFTWARE] => PHP/8.3.6 (Development Server)
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_NAME] => 172.168.1.6
+    [SERVER_PORT] => 9494
+    [REQUEST_URI] => /
+    [REQUEST_METHOD] => GET
+    [SCRIPT_NAME] => /index.php
+    [SCRIPT_FILENAME] => /home/rizk/PC data/Reset for Chromebook flex/vscode basic/Web/Load Suite/index.php
+    [PHP_SELF] => /index.php
+    [HTTP_HOST] => 172.168.1.6:9494
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Linux; Android 15; Infinix X6880 Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.116 Mobile Safari/537.36
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [HTTP_DNT] => 1
+    [HTTP_X_REQUESTED_WITH] => mark.via.gp
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.9,ar-LY;q=0.8,ar;q=0.7
+    [REQUEST_TIME_FLOAT] => 1766655705.0852
+    [REQUEST_TIME] => 1766655705
+)
+Array
+(
+    [DOCUMENT_ROOT] => /home/rizk/PC data/Reset for Chromebook flex/vscode basic/Web/Load Suite
+    [REMOTE_ADDR] => 172.168.1.2
+    [REMOTE_PORT] => 38088
+    [SERVER_SOFTWARE] => PHP/8.3.6 (Development Server)
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_NAME] => 172.168.1.6
+    [SERVER_PORT] => 9494
+    [REQUEST_URI] => /
+    [REQUEST_METHOD] => GET
+    [SCRIPT_NAME] => /index.php
+    [SCRIPT_FILENAME] => /home/rizk/PC data/Reset for Chromebook flex/vscode basic/Web/Load Suite/index.php
+    [PHP_SELF] => /index.php
+    [HTTP_HOST] => 172.168.1.6:9494
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Linux; Android 15; Infinix X6880 Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.116 Mobile Safari/537.36
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [HTTP_DNT] => 1
+    [HTTP_X_REQUESTED_WITH] => mark.via.gp
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.9,ar-LY;q=0.8,ar;q=0.7
+    [REQUEST_TIME_FLOAT] => 1766655705.6353
+    [REQUEST_TIME] => 1766655705
+)
+Array
+(
+    [DOCUMENT_ROOT] => /home/rizk/PC data/Reset for Chromebook flex/vscode basic/Web/Load Suite
+    [REMOTE_ADDR] => 172.168.1.2
+    [REMOTE_PORT] => 38056
+    [SERVER_SOFTWARE] => PHP/8.3.6 (Development Server)
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_NAME] => 172.168.1.6
+    [SERVER_PORT] => 9494
+    [REQUEST_URI] => /
+    [REQUEST_METHOD] => GET
+    [SCRIPT_NAME] => /index.php
+    [SCRIPT_FILENAME] => /home/rizk/PC data/Reset for Chromebook flex/vscode basic/Web/Load Suite/index.php
+    [PHP_SELF] => /index.php
+    [HTTP_HOST] => 172.168.1.6:9494
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Linux; Android 15; Infinix X6880 Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.116 Mobile Safari/537.36
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [HTTP_DNT] => 1
+    [HTTP_X_REQUESTED_WITH] => mark.via.gp
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.9,ar-LY;q=0.8,ar;q=0.7
+    [REQUEST_TIME_FLOAT] => 1766655706.08
+    [REQUEST_TIME] => 1766655706
+)
+Array
+(
+    [DOCUMENT_ROOT] => /home/rizk/PC data/Reset for Chromebook flex/vscode basic/Web/Load Suite
+    [REMOTE_ADDR] => 172.168.1.2
+    [REMOTE_PORT] => 53134
+    [SERVER_SOFTWARE] => PHP/8.3.6 (Development Server)
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_NAME] => 172.168.1.6
+    [SERVER_PORT] => 9494
+    [REQUEST_URI] => /
+    [REQUEST_METHOD] => GET
+    [SCRIPT_NAME] => /index.php
+    [SCRIPT_FILENAME] => /home/rizk/PC data/Reset for Chromebook flex/vscode basic/Web/Load Suite/index.php
+    [PHP_SELF] => /index.php
+    [HTTP_HOST] => 172.168.1.6:9494
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Linux; Android 15; Infinix X6880 Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.116 Mobile Safari/537.36
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [HTTP_DNT] => 1
+    [HTTP_X_REQUESTED_WITH] => mark.via.gp
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.9,ar-LY;q=0.8,ar;q=0.7
+    [REQUEST_TIME_FLOAT] => 1766655706.6579
+    [REQUEST_TIME] => 1766655706
+)
